@@ -1,7 +1,10 @@
 # Material UI - Vite.js example
 
 ## How to use
+FIRST(from 'Installation' mui.com )
+npm install @mui/material @emotion/react @emotion/styled
 
+SECOND
 Download the example [or clone the repo](https://github.com/mui/material-ui):
 
 <!-- #default-branch-switch -->
@@ -37,3 +40,6 @@ It includes `@mui/material` and its peer dependencies, including [Emotion](https
 
 You now have a working example project.
 You can head back to the documentation and continue by browsing the [templates](https://mui.com/material-ui/getting-started/templates/) section.
+
+THIRD
+Copy in App.js from https://mui.com/material-ui/react-table/#system-Span
