@@ -33,5 +33,13 @@ working with  library src:
 
 You can head back to the documentation and continue by browsing the [templates](https://mui.com/material-ui/getting-started/templates/) section.
 
-
+FORTH
 Copy in App.js from https://mui.com/material-ui/react-table/#system-Span from Spanning Table
+
+FIFTH
+Adding Footer and Header for invoice using Divider(Vertical divider) - Grid
+https://mui.com/material-ui/react-divider/
+
+Next task:
+- make format A4
+- structurizing program on 'main','footer/header' and 'items+prices'
