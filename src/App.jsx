@@ -58,9 +58,9 @@ export default function SpanningTable() {
           {rows.map((row) => (
             <TableRow key={row.desc}>
               <TableCell>{row.desc}</TableCell>
-              <TableCell align="right">{row.qty}</TableCell>
+           <TableCell align="right">{row.qty}</TableCell>
               <TableCell align="right">{row.unit}</TableCell>
-              <TableCell align="right">{ccyFormat(row.price)}</TableCell>
+          <TableCell align="right">{ccyFormat(row.price)}</TableCell> 
             </TableRow>
           ))}
           <TableRow>

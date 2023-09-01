@@ -2,10 +2,11 @@
 
 ## How to use
 FIRST(from 'Installation' mui.com )
+
 npm install @mui/material @emotion/react @emotion/styled
 
-SECOND
-Download the example [or clone the repo](https://github.com/mui/material-ui):
+
+SECOND(Installing Material UI + Vite)
 
 <!-- #default-branch-switch -->
 
@@ -21,25 +22,16 @@ npm install
 npm run dev
 ```
 
-or:
-
 <!-- #default-branch-switch -->
+You now have a working example project(Material UI + vite)
 
-[![Edit on StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/mui/material-ui/tree/master/examples/material-ui-vite)
 
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/mui/material-ui/tree/master/examples/material-ui-vite)
+THIRD(Making project using templates)
+working with  library src: 
+-deleting module App.js and its subordinates from previous paragraph
+-creating(coping) modules from templates
 
-## The idea behind the example
-
-This example uses [Vite.js](https://github.com/vitejs/vite).
-It includes `@mui/material` and its peer dependencies, including [Emotion](https://emotion.sh/docs/introduction), the default style engine in Material UI v5.
-
-## What's next?
-
-<!-- #default-branch-switch -->
-
-You now have a working example project.
 You can head back to the documentation and continue by browsing the [templates](https://mui.com/material-ui/getting-started/templates/) section.
 
-THIRD
-Copy in App.js from https://mui.com/material-ui/react-table/#system-Span
+
+Copy in App.js from https://mui.com/material-ui/react-table/#system-Span from Spanning Table
